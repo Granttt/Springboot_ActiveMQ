@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.miu</groupId>
-    <artifactId>father</artifactId>
+    <artifactId>Springboot_ActiveMQ</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>father</name>
+    <name>Springboot_ActiveMQ</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
